@@ -1,17 +1,15 @@
 .Currency {
     color: #fff;
-    text-align: center;
 }
 
 .headliner {
     font-weight: normal;
-    padding-top: 150px;
     font-size: 50px;
 }
 
 .currencyBlocks {
   width: 680px;
-  height: 400px;
+  height: 300px;
   margin-left: calc((100% - 680px)/2);
   margin-top: 20px;
   background-color: #2f2f3a;
@@ -64,4 +62,11 @@ select:hover {
 
 *:focus {
     outline: none;
+}
+
+h5 {
+    margin-top: 25px;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: normal;
 }
