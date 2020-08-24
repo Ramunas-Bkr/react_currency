@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-currency-live/static/css/main.056b295c.chunk.css",
-    "main.js": "/react-currency-live/static/js/main.b41b464f.chunk.js",
-    "main.js.map": "/react-currency-live/static/js/main.b41b464f.chunk.js.map",
-    "runtime-main.js": "/react-currency-live/static/js/runtime-main.817a468e.js",
-    "runtime-main.js.map": "/react-currency-live/static/js/runtime-main.817a468e.js.map",
-    "static/js/2.29dfc9a7.chunk.js": "/react-currency-live/static/js/2.29dfc9a7.chunk.js",
-    "static/js/2.29dfc9a7.chunk.js.map": "/react-currency-live/static/js/2.29dfc9a7.chunk.js.map",
-    "index.html": "/react-currency-live/index.html",
-    "precache-manifest.099fab58822d348124098ffced6ff2fc.js": "/react-currency-live/precache-manifest.099fab58822d348124098ffced6ff2fc.js",
-    "service-worker.js": "/react-currency-live/service-worker.js",
-    "static/css/main.056b295c.chunk.css.map": "/react-currency-live/static/css/main.056b295c.chunk.css.map",
-    "static/js/2.29dfc9a7.chunk.js.LICENSE.txt": "/react-currency-live/static/js/2.29dfc9a7.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-currency-live/static/media/logo.d63588c3.svg"
+    "main.css": "/react_currency/static/css/main.056b295c.chunk.css",
+    "main.js": "/react_currency/static/js/main.b41b464f.chunk.js",
+    "main.js.map": "/react_currency/static/js/main.b41b464f.chunk.js.map",
+    "runtime-main.js": "/react_currency/static/js/runtime-main.f4f2ee71.js",
+    "runtime-main.js.map": "/react_currency/static/js/runtime-main.f4f2ee71.js.map",
+    "static/js/2.29dfc9a7.chunk.js": "/react_currency/static/js/2.29dfc9a7.chunk.js",
+    "static/js/2.29dfc9a7.chunk.js.map": "/react_currency/static/js/2.29dfc9a7.chunk.js.map",
+    "index.html": "/react_currency/index.html",
+    "precache-manifest.a2a2bdd9bf8c21c68c19c54750515b23.js": "/react_currency/precache-manifest.a2a2bdd9bf8c21c68c19c54750515b23.js",
+    "service-worker.js": "/react_currency/service-worker.js",
+    "static/css/main.056b295c.chunk.css.map": "/react_currency/static/css/main.056b295c.chunk.css.map",
+    "static/js/2.29dfc9a7.chunk.js.LICENSE.txt": "/react_currency/static/js/2.29dfc9a7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react_currency/static/media/logo.d63588c3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.817a468e.js",
+    "static/js/runtime-main.f4f2ee71.js",
     "static/js/2.29dfc9a7.chunk.js",
     "static/css/main.056b295c.chunk.css",
     "static/js/main.b41b464f.chunk.js"
