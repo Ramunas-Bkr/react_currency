@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live demo app: https://ramunas-bkr.github.io/react_currency/
 
 ## Available Scripts
 
